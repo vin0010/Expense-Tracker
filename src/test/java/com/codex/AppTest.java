@@ -1,4 +1,4 @@
-package A.B;
+package com.codex;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

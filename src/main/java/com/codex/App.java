@@ -1,4 +1,4 @@
-package A.B;
+package com.codex;
 
 /**
  * Hello world!
