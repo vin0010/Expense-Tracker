@@ -9,7 +9,7 @@ Expense Tracker with added features.
 - Get it reviewed with someone
 - Start developing features one by one
 
-### Features
+## Features
 
 Order | Feature
 ------------ | -------------
