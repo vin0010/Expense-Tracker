@@ -5,9 +5,10 @@ Expense Tracker with added features.
 ## Plan
 - [Features](#features)
 - [Initial Design](#Initial-Design)
+- [Architecture And Tools Usage](#Architecture-And-Tools-Usage)
 - [Class Design](#Class-Design)
-- Get it reviewed with someone
-- Start developing features one by one
+- [Design Review](#Design-Review)
+- [Development](#Development)
 
 ## Features
  - Currency Usage
@@ -16,28 +17,13 @@ Expense Tracker with added features.
  - Accounts(Bank, Card and Cash)
  - Charts
 
-
-Order | Feature
------------- | -------------
+## Initial Design
 
 
+## Class Design
 
 
-- [Why use it?](#why-use-it)
+## Design Review
 
 
-
-
-
-
-## Why use it?
-
-
-- [Sorting](#sorting)
-
-
-
-
-
-
-## Sorting
+## Development
