@@ -12,12 +12,15 @@ Expense Tracker with added features.
 
 ## Features
  - Currency Usage
- - Categories(Food, Travel, Medical etc.)
+ - Categories(Food, Travel, Medical and custom category etc.)
  - Sub Categories(Food - lunch, dinner, snacks etc.)
  - Accounts(Bank, Card and Cash)
  - Charts
+ - Suggestions
+ - Budget limit alert
 
 ## Initial Design
+ -
 
 
 ## Class Design
