@@ -5,11 +5,17 @@ Expense Tracker with added features.
 ## Plan
 - [Features](#features)
 - [Initial Design](#Initial-Design)
-- Come up with detailed skeleton classes
+- [Class Design](#Class-Design)
 - Get it reviewed with someone
 - Start developing features one by one
 
 ## Features
+ - Currency Usage
+ - Categories(Food, Travel, Medical etc.)
+ - Sub Categories(Food - lunch, dinner, snacks etc.)
+ - Accounts(Bank, Card and Cash)
+ - Charts
+
 
 Order | Feature
 ------------ | -------------
