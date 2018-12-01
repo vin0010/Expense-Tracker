@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/vin0010/Expense-Tracker.svg?branch=master)](https://travis-ci.org/vin0010/Expense-Tracker)
+[![codecov](https://codecov.io/gh/vin0010/Expense-Tracker/branch/master/graph/badge.svg)](https://codecov.io/gh/vin0010/Expense-Tracker)
 # Expense-Tracker
 Expense Tracker with added features.
 
