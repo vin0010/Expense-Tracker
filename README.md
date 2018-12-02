@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/vin0010/Expense-Tracker.svg?branch=master)](https://travis-ci.org/vin0010/Expense-Tracker)
 [![codecov](https://codecov.io/gh/vin0010/Expense-Tracker/branch/master/graph/badge.svg)](https://codecov.io/gh/vin0010/Expense-Tracker)
+[![wercker status](https://app.wercker.com/status/b3869a40869798554fd2fa56c4a00f20/s/master "wercker status")](https://app.wercker.com/project/byKey/b3869a40869798554fd2fa56c4a00f20)
 # Expense-Tracker
 Expense Tracker with added features.
 
