@@ -21,8 +21,7 @@ Expense Tracker with added features.
  - Suggestions
  - Budget limit alert
 
-## Initial Design
- -
+## Initial Design [![Build Status](https://img.shields.io/badge/Status-In%20Progress-lightgrey.svg)](https://img.shields.io/badge/Status-In%20Progress-lightgrey.svg)
 
 
 ## Class Design
