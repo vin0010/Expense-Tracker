@@ -21,7 +21,7 @@
   </class>  
   <class id="3" language="java" name="com.codex.et.common.Expense" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/common/Expense.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="101" width="206" x="2896" y="232"/>    
+    <position height="-1" width="-1" x="2747" y="596"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -30,7 +30,7 @@
   </class>  
   <class id="4" language="java" name="com.codex.et.common.Income" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/common/Income.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="101" width="199" x="2657" y="232"/>    
+    <position height="-1" width="-1" x="2707" y="447"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
