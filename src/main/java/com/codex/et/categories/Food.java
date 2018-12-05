@@ -4,11 +4,12 @@ import java.util.List;
 
 import com.codex.et.util.CategoryType;
 
-public class Food implements Categories {
-
+public class Food implements Category {
+//	private SubCategory subCategory;
+	private Category category;
 	public CategoryType getCategoryType() {
 		// TODO Auto-generated method stub
-		return null;
+		return category.getCategoryType();
 	}
 	/*
 	 * Does all sub categories require seperate class or just a string is enough?
@@ -18,7 +19,7 @@ public class Food implements Categories {
 	 * @see com.codex.et.categories.Categories#getSubCategories()
 	 */
 	
-	public List<Categories> getSubCategories() {
+	public List<SubCategory> getSubCategories() {
 		// TODO Auto-generated method stub
 		return null;
 	}

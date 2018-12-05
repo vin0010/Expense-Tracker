@@ -4,14 +4,15 @@ import java.util.List;
 
 import com.codex.et.util.CategoryType;
 
-public class Medical implements Categories {
-
+public class Medical implements Category {
+//	private SubCategory subCategory;
+	private Category category;
 	public CategoryType getCategoryType() {
 		// TODO Auto-generated method stub
-		return null;
+		return category.getCategoryType();
 	}
-
-	public List<Categories> getSubCategories() {
+//
+	public List<SubCategory> getSubCategories() {
 		// TODO Auto-generated method stub
 		return null;
 	}
