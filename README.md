@@ -6,11 +6,13 @@ Expense Tracker with added features.
 
 ## Plan
 - [Features](#features)
-- [Initial Design](#Initial-Design)
-- [Architecture And Tools Usage](#Architecture-And-Tools-Usage)
-- [Class Design](#Class-Design)
-- [Design Review](#Design-Review)
-- [Development](#Development)
+- [Use Cases](#use-cases)
+- [Textual Analysis](#textual-analysis)
+- [Initial Design](#initial-design)
+- Architecture And Tools Usage
+- [Class Design](#class-design)
+- [Design Review](#design-review)
+- [Development](#development)
 
 ## Features
  - Currency Usage
@@ -21,7 +23,45 @@ Expense Tracker with added features.
  - Suggestions
  - Budget limit alert
 
-## Initial Design [![Build Status](https://img.shields.io/badge/Status-In%20Progress-lightgrey.svg)](https://img.shields.io/badge/Status-In%20Progress-lightgrey.svg)
+## Use Cases
+ - Add Expense with Category, Account, Payee, Date, Note
+ - Add Income with Category, Account, Date and Note
+ - Add Account with Category, Type and Name
+ - View Expense on Daily, Weekly and Monthly basis.
+ - View Income on Daily, Weekly and Monthly basis.
+ - Export income statement on Daily, Weekly and Monthly basis.
+ - Export expense statement on Daily, Weekly and Monthly basis.
+
+## Textual Analysis
+- **Textual Analysis** is nothing but finding classes and objects from nouns and verbs of use case description.
+- Classes
+	- Expense
+	- Income
+	- Account
+        - Bank
+        - Credit Card
+        - Cash
+	- Payee
+	- Category
+        - Food
+            - Dinner
+            - Lunch
+            - Snacks
+            - Groceries
+        - Travel
+            - Fuel
+            -
+        - Medical
+        - Home Appliances
+        - Insurance
+        - Social
+        - Personal
+        - Digital
+	- Sub Categories
+
+## Initial Design
+
+[![Build Status](https://img.shields.io/badge/Status-In%20Progress-lightgrey.svg)](https://img.shields.io/badge/Status-In%20Progress-lightgrey.svg)
 
 
 ## Class Design
