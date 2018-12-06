@@ -2,6 +2,7 @@ package com.codex.et.accounts;
 
 import java.util.List;
 
+import com.codex.et.common.AccountUpdateHelper;
 import com.codex.et.user.User;
 
 public class AccountsManager {
@@ -14,12 +15,11 @@ public class AccountsManager {
 	}
 
 	public Transaction addExpense(Account account) {
-
-		return null;
+		return AccountUpdateHelper.debitAccount(account);
 	}
 
 	public Transaction addIncome(Account account) {
-		return null;
+		return AccountUpdateHelper.creditAccount(account);
 	}
 
 	public void addAccount(Account account) {
