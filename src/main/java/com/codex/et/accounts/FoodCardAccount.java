@@ -7,7 +7,7 @@ import com.codex.et.user.User;
 import com.codex.et.util.AccountType;
 import com.codex.et.util.TimeLine;
 
-public class FoodCardAccount implements Account{
+public class FoodCardAccount implements Account {
 
 	public AccountType getAccountType() {
 		// TODO Auto-generated method stub
