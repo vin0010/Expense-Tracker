@@ -3,7 +3,7 @@
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
   <class id="1" language="java" name="com.codex.et.categories.Food" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/categories/Food.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="119" width="242" x="3556" y="37"/>    
+    <position height="119" width="242" x="2699" y="268"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -12,7 +12,7 @@
   </class>  
   <class id="2" language="java" name="com.codex.et.categories.Travel" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/categories/Travel.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="119" width="242" x="2992" y="37"/>    
+    <position height="119" width="242" x="2135" y="268"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -21,7 +21,7 @@
   </class>  
   <class id="3" language="java" name="com.codex.et.common.Expense" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/common/Expense.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="101" width="206" x="2593" y="286"/>    
+    <position height="101" width="206" x="1536" y="517"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -30,7 +30,7 @@
   </class>  
   <class id="4" language="java" name="com.codex.et.common.Income" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/common/Income.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="101" width="199" x="2839" y="286"/>    
+    <position height="101" width="199" x="1782" y="517"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -39,7 +39,7 @@
   </class>  
   <interface id="5" language="java" name="com.codex.et.accounts.Account" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/accounts/Account.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="191" width="362" x="2001" y="286"/>    
+    <position height="191" width="362" x="1134" y="517"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -48,7 +48,7 @@
   </interface>  
   <class id="6" language="java" name="com.codex.et.accounts.BankAccount" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/accounts/BankAccount.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="209" width="362" x="1599" y="37"/>    
+    <position height="209" width="362" x="444" y="268"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -58,7 +58,7 @@
   <class id="7" language="java" name="com.codex.et.accounts.CreditCardAccount" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/accounts/CreditCardAccount.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="209" width="362" x="2001" y="37"/>    
+    <position height="209" width="362" x="1174" y="268"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -68,7 +68,7 @@
   <class id="8" language="java" name="com.codex.et.accounts.FoodCardAccount" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/accounts/FoodCardAccount.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="209" width="362" x="1197" y="37"/>    
+    <position height="209" width="362" x="42" y="268"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -78,7 +78,7 @@
   <class id="9" language="java" name="com.codex.et.categories.FoodSubCategory" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/categories/FoodSubCategory.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="101" width="243" x="631" y="37"/>    
+    <position height="101" width="243" x="1852" y="37"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -88,7 +88,7 @@
   <class id="10" language="java" name="com.codex.et.categories.TravelSubCategory" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/categories/TravelSubCategory.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="101" width="243" x="348" y="37"/>    
+    <position height="101" width="243" x="1569" y="37"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -97,7 +97,7 @@
   </class>  
   <class id="11" language="java" name="com.codex.et.categories.Medical" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/categories/Medical.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="119" width="242" x="3274" y="37"/>    
+    <position height="119" width="242" x="2417" y="268"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -107,7 +107,7 @@
   <class id="12" language="java" name="com.codex.et.categories.MedicalSubCategory" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/categories/MedicalSubCategory.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="101" width="243" x="914" y="37"/>    
+    <position height="101" width="243" x="2135" y="37"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -116,7 +116,7 @@
   </class>  
   <interface id="13" language="java" name="com.codex.et.categories.SubCategory" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/categories/SubCategory.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="83" width="243" x="631" y="286"/>    
+    <position height="83" width="243" x="1852" y="268"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -125,7 +125,7 @@
   </interface>  
   <interface id="14" language="java" name="com.codex.et.categories.Category" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/categories/Category.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="83" width="202" x="3274" y="286"/>    
+    <position height="83" width="202" x="2417" y="517"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -134,7 +134,7 @@
   </interface>  
   <class id="15" language="java" name="com.codex.et.common.AccountActivity" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/common/AccountActivity.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="119" width="236" x="2716" y="37"/>    
+    <position height="119" width="236" x="1576" y="268"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -144,7 +144,7 @@
   <class id="16" language="java" name="com.codex.et.common.AccountUpdateHelper" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/common/AccountUpdateHelper.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="137" width="267" x="41" y="37"/>    
+    <position height="137" width="267" x="846" y="268"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -154,7 +154,7 @@
   <class id="17" language="java" name="com.codex.et.accounts.AccountsManager" project="Expense-Tracker" 
     file="/Expense-Tracker/src/main/java/com/codex/et/accounts/AccountsManager.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="191" width="273" x="2403" y="37"/>    
+    <position height="191" width="273" x="1134" y="37"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -162,6 +162,7 @@
     </display>  
   </class>  
   <association id="18">    
+    <bendpoint x="1143" y="268"/>    
     <end type="SOURCE" refId="17" navigable="false">      
       <attribute id="19" name="accounts"/>      
       <multiplicity id="20" minimum="0" maximum="2147483647"/>    
@@ -249,27 +250,35 @@
     <end type="SOURCE" refId="8"/>    
     <end type="TARGET" refId="5"/>  
   </realization>  
-  <association id="41">    
+  <dependency id="41">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <association id="42">    
     <end type="SOURCE" refId="2" navigable="false">      
-      <attribute id="42" name="category">        
+      <attribute id="43" name="category">        
         <position height="0" width="0" x="0" y="0"/>      
       </attribute>      
-      <multiplicity id="43" minimum="0" maximum="1">        
+      <multiplicity id="44" minimum="0" maximum="1">        
         <position height="0" width="0" x="0" y="0"/>      
       </multiplicity>    
     </end>    
     <end type="TARGET" refId="14" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <realization id="44">    
+  <realization id="45">    
     <end type="SOURCE" refId="6"/>    
     <end type="TARGET" refId="5"/>  
   </realization>  
-  <realization id="45">    
+  <dependency id="46">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <realization id="47">    
     <end type="SOURCE" refId="9"/>    
     <end type="TARGET" refId="13"/>  
   </realization>  
-  <realization id="46">    
+  <realization id="48">    
     <end type="SOURCE" refId="11"/>    
     <end type="TARGET" refId="14"/>  
   </realization>  
