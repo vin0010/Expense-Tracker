@@ -1,5 +1,5 @@
 language: java
 
 script: "mvn cobertura:cobertura"
-    
-after_success: if [ -n "$JACOCO" ]; then bash <(curl -s https://codecov.io/bash); fi
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
