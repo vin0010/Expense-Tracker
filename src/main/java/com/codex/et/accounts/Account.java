@@ -23,4 +23,10 @@ public interface Account {
 	public long getAccountBalance();
 
 	public long getAccountNumber();
+	
+	public Transaction creditAccount(Account account);
+
+	public Transaction debitAccount(Account account);
+	
+	public List<Transaction> transfer(Account toAccount);
 }
