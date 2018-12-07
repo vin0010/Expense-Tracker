@@ -5,15 +5,14 @@ import com.codex.et.categories.Category;
 import com.codex.et.user.User;
 
 public class Expense extends AccountActivity {
-	
+	private long cost;
 	
 	public Expense(Category category, Account account, User user) {
 		super(category, account, user);
 	}
 
 	public long getActivityCost() {
-		// TODO Auto-generated method stub
-		return 0;
+		return cost;
 	}
 
 }

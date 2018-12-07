@@ -2,8 +2,10 @@ package com.codex.et.categories;
 
 import com.codex.et.util.CategoryType;
 
-public class Medical implements Category {
-	private Category subCategory;
+//TODO - do i have to make this as an abstract?
+
+public class DinnerSubCategory implements Category {
+	Category subCategory;
 
 	public CategoryType getCategoryType() {
 		return this.getCategoryType();
