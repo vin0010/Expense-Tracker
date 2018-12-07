@@ -5,15 +5,14 @@ import com.codex.et.categories.Category;
 import com.codex.et.user.User;
 
 public class Income extends AccountActivity {
+	private long cost;
 
 	public Income(Category category, Account account, User user) {
 		super(category, account, user);
-		// TODO Auto-generated constructor stub
 	}
 
 	public long getActivityCost() {
-		// TODO Auto-generated method stub
-		return 0;
+		return cost;
 	}
 
 }
