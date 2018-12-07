@@ -1,13 +1,18 @@
 package com.codex.et.categories;
 
-import com.codex.et.util.SubCategoryType;
+import com.codex.et.util.CategoryType;
 
 //TODO - do i have to make this as an abstract?
-public class FoodSubCategory implements SubCategory{
 
-	public SubCategoryType geSubCategoryType() {
-		// TODO Auto-generated method stub
-		return null;
+public class DinnerSubCategory implements Category {
+	Category subCategory;
+
+	public CategoryType getCategoryType() {
+		return this.getCategoryType();
 	}
-	
+
+	public Category getSubCategory() {
+		return subCategory;
+	}
+
 }

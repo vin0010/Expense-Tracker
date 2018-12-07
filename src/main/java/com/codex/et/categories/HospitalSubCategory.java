@@ -1,12 +1,15 @@
 package com.codex.et.categories;
 
-import com.codex.et.util.SubCategoryType;
+import com.codex.et.util.CategoryType;
 
-public class MedicalSubCategory implements SubCategory {
+public class HospitalSubCategory implements Category {
+	private Category subCategory;
 
-	public SubCategoryType geSubCategoryType() {
-		// TODO Auto-generated method stub
-		return null;
+	public CategoryType getCategoryType() {
+		return this.getCategoryType();
 	}
 
+	public Category getSubCategory() {
+		return subCategory;
+	}
 }

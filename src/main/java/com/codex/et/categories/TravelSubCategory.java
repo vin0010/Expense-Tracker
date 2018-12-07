@@ -1,12 +1,16 @@
 package com.codex.et.categories;
 
-import com.codex.et.util.SubCategoryType;
+import com.codex.et.util.CategoryType;
 
-public class TravelSubCategory implements SubCategory {
+public class TravelSubCategory implements Category {
+	private Category subCategory;
 
-	public SubCategoryType geSubCategoryType() {
-		// TODO Auto-generated method stub
-		return null;
+	public CategoryType getCategoryType() {
+		return this.getCategoryType();
 	}
 
+	public Category getSubCategory() {
+		// return empty list since there are no sub category for sub category
+		return subCategory;
+	}
 }
