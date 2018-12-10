@@ -14,7 +14,7 @@ Expense Tracker with added features.
 - Architecture And Tools Usage
 - [Class Design](#class-design)
 - [Design Review](#design-review)
-- [Development](#development)
+
 
 ## Features
  - Currency Usage
@@ -62,14 +62,7 @@ Expense Tracker with added features.
 	- Sub Categories
 
 ## Initial Design
-
-[![Build Status](https://img.shields.io/badge/Status-In%20Progress-lightgrey.svg)](https://img.shields.io/badge/Status-In%20Progress-lightgrey.svg)
-
-
-## Class Design
-
+![Class Design](Class-Design.jpg)
 
 ## Design Review
-
-
-## Development
+- Done by @dkarthikeyan88
