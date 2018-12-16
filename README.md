@@ -62,6 +62,13 @@ Expense Tracker with added features.
 	- Sub Categories
 
 ## Initial Design
+## Class Design
+![Build Status](Class-Design.jpg)
+
+## Design Review
+- Most of the design ideas/features that has been planned is covered.
+
+## Development
 ![Class Design](Class-Design.jpg)
 
 ## Design Review
