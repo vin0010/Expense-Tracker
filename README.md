@@ -63,13 +63,11 @@ Expense Tracker with added features.
 
 ## Initial Design
 
-[![Build Status](https://img.shields.io/badge/Status-In%20Progress-lightgrey.svg)](https://img.shields.io/badge/Status-In%20Progress-lightgrey.svg)
-
-
 ## Class Design
-
+![Build Status](Class-Design.jpg)
 
 ## Design Review
+- Most of the design ideas/features that has been planned is covered. 
 
 
 ## Development
